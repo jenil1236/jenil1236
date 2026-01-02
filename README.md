@@ -31,13 +31,7 @@
 
 ### 📊 My Coding Universe
 <div align="center">
-
-<img src="https://metrics.lecoq.io/jenil1236?base=header%2C%20repositories&template=classic&plugin_languages=1&plugin_languages_analysis_timeout=15&plugin_languages_categories=markup%2C%20programming&plugin_languages_colors=github&plugin_languages_limit=8&plugin_languages_recent_categories=markup%2C%20programming&plugin_languages_recent_days=14&plugin_languages_recent_load=300&plugin_languages_sections=most-used&plugin_languages_threshold=0%25&config.timezone=Asia%2FKolkata" width="300" alt="Language Activity" />
-
-<img src="https://metrics.lecoq.io/jenil1236?base=&template=classic&plugin_isocalendar=1&plugin_isocalendar_duration=full-year" width="300" alt="Commit Calendar" />
-
-<img src="https://metrics.lecoq.io/jenil1236?base=&template=classic&plugin_achievements=1&plugin_achievements_display=detailed&plugin_achievements_secrets=yes&plugin_achievements_threshold=C" width="300" alt="Achievements" />
-
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
